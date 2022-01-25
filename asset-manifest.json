@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/First-Small-Project-Using-React/static/css/main.76430c15.css",
+    "main.js": "/First-Small-Project-Using-React/static/js/main.c961fb3d.js",
+    "index.html": "/First-Small-Project-Using-React/index.html",
+    "main.76430c15.css.map": "/First-Small-Project-Using-React/static/css/main.76430c15.css.map",
+    "main.c961fb3d.js.map": "/First-Small-Project-Using-React/static/js/main.c961fb3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76430c15.css",
+    "static/js/main.c961fb3d.js"
+  ]
+}
